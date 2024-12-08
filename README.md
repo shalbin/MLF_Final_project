@@ -1,4 +1,4 @@
-# MLF_Final_project
+# MLP_Final_project
 
 Tis is the final project contributions we have come up with. We have created a new notebook file in this with our contributions. 
 Clone the repo/ download the python notebook from the repo.
